@@ -12,9 +12,11 @@ df =  pd.read_csv('final.csv')
 
 df['combined_text'] = df['name_idx'] + ' ' + df['test_type_mapped']
 
+nest_asyncio.apply()
 genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 gemini_model = genai.GenerativeModel('gemini-2.0-flash')
 
+nest_asyncio.apply()
 embedder = SentenceTransformer('all-MiniLM-L6-v2', token=st.secrets["HUGGINGFACE_TOKEN"])
 
 st.title('SHL Assessment Recommendation System')

@@ -1,0 +1,13 @@
+name,url,remote_support,adaptive_support,duration,test_type
+Social Media (New),https://www.shl.com/solutions/products/product-catalog/view/social-media-new/,Yes,No,10,"K,Remote,Testing"
+Software Business Analysis,https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/,Yes,Yes,30,"K,Remote,Testing"
+SonarQube (New),https://www.shl.com/solutions/products/product-catalog/view/sonarqube-new/,Yes,No,N/A,"K,Remote,Testing"
+Spelling (U.S.) (New),https://www.shl.com/solutions/products/product-catalog/view/spelling-u-s-new/,Yes,No,0,"K,Remote,Testing"
+Split Screen Typing Test - Form 1,https://www.shl.com/solutions/products/product-catalog/view/split-screen-typing-test-form-1/,Yes,No,6,"A,K,Remote,Testing"
+Spring (New),https://www.shl.com/solutions/products/product-catalog/view/spring-new/,Yes,No,9,"K,Remote,Testing"
+SQL (New),https://www.shl.com/solutions/products/product-catalog/view/sql-new/,Yes,No,9,"K,Remote,Testing"
+SQL Server (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/,Yes,No,11,"K,Remote,Testing"
+SQL Server Analysis Services (SSAS) (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/,Yes,No,15,"K,Remote,Testing"
+SQL Server Integration Services (SSIS) (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/,Yes,No,10,"K,Remote,Testing"
+SQL Server Reporting Services (SSRS) (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/,Yes,No,10,"K,Remote,Testing"
+Statistical Analysis System (New),https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/,Yes,No,11,"K,Remote,Testing"

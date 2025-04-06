@@ -1,0 +1,13 @@
+name,url,remote_support,adaptive_support,duration,test_type
+BizTalk (New),https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/,Yes,No,16,"K,Remote,Testing"
+Business Communication (adaptive),https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/,Yes,Yes,24,"K,Remote,Testing"
+Business Communications,https://www.shl.com/solutions/products/product-catalog/view/business-communications/,Yes,No,35,"K,Remote,Testing"
+C Programming (New),https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/,Yes,No,10,"K,Remote,Testing"
+C# Programming (New),https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/,Yes,No,9,"K,Remote,Testing"
+C++ Programming (New),https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/,Yes,No,10,"K,Remote,Testing"
+Cardiology and Diabetes Management (New),https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/,Yes,No,4,"K,Remote,Testing"
+Ceramic Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/,Yes,No,12,"K,Remote,Testing"
+Chemical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/,Yes,No,13,"K,Remote,Testing"
+Cisco AppDynamics (New),https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/,Yes,No,9,"K,Remote,Testing"
+Civil Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/,Yes,No,10,"K,Remote,Testing"
+Cloud Computing (New),https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/,Yes,No,8,"K,Remote,Testing"

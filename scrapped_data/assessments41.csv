@@ -1,0 +1,6 @@
+name,url,remote_support,adaptive_support,duration,test_type
+Written English v1,https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/,Yes,Yes,30,"K,Remote,Testing"
+Written Spanish,https://www.shl.com/solutions/products/product-catalog/view/written-spanish/,Yes,Yes,22,"K,Remote,Testing"
+Zabbix (New),https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/,Yes,No,9,"K,Remote,Testing"
+360 Digital Report,https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/,Yes,No,N/A,"D,Remote,Testing"
+360° Multi-Rater Feedback System (MFS),https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/,Yes,No,N/A,"D,P,Remote,Testing"

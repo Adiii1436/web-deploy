@@ -1,0 +1,13 @@
+name,url,remote_support,adaptive_support,duration,test_type
+Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,10,"K,Remote,Testing"
+Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,25,"K,Remote,Testing"
+Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,30,"K,Remote,Testing"
+Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,6,"K,Remote,Testing"
+Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,11,"K,Remote,Testing"
+R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,13,"K,Remote,Testing"
+ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,10,"K,Remote,Testing"
+Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,35,"A,Remote,Testing"
+Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,26,"A,Remote,Testing"
+Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,35,"A,Remote,Testing"
+RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,10,"C,Remote,Testing"
+RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,N/A,"C,Remote,Testing"

@@ -1,0 +1,13 @@
+name,url,remote_support,adaptive_support,duration,test_type
+District/Regional Manager Solution,https://www.shl.com/solutions/products/product-catalog/view/districtregional-manager-solution/,Yes,Yes,65,"A,B,P,Remote,Testing"
+Entry Level Cashier 7.1 (Americas),https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/,Yes,No,18,"B,P,A,Remote,Testing"
+Entry Level Cashier 7.1 (International),https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/,Yes,No,18,"A,B,P,Remote,Testing"
+Entry Level Customer Service 7.1 (Americas),https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/,Yes,No,19,"C,P,Remote,Testing"
+Entry Level Customer Service 7.1 (International),https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/,Yes,No,19,"C,P,Remote,Testing"
+Entry Level Customer Service 7.1 (South Africa),https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/,Yes,No,19,"C,P,Remote,Testing"
+Entry level Sales 7.1 (Americas),https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/,Yes,No,20,"B,C,P,Remote,Testing"
+Entry level Sales 7.1 (International),https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/,Yes,No,20,"P,B,C,Remote,Testing"
+Entry Level Sales Sift Out 7.1,https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/,Yes,No,20,"C,P,B,Remote,Testing"
+Event Sales Manager Solution,https://www.shl.com/solutions/products/product-catalog/view/event-sales-manager-solution/,Yes,Yes,50,"S,A,B,P,Remote,Testing"
+Executive - Short Form,https://www.shl.com/solutions/products/product-catalog/view/executive-short-form/,Yes,Yes,74,"A,B,P,Remote,Testing"
+Financial Professional - Short Form,https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/,Yes,No,35,"A,B,P,Remote,Testing"

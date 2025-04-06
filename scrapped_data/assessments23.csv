@@ -1,0 +1,13 @@
+name,url,remote_support,adaptive_support,duration,test_type
+jQuery (New),https://www.shl.com/solutions/products/product-catalog/view/jquery-new/,Yes,No,10,"K,Remote,Testing"
+Kubernetes (New),https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/,Yes,No,6,"K,Remote,Testing"
+Linux Administration (New),https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/,Yes,No,10,"K,Remote,Testing"
+Linux Operating System,https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/,Yes,No,15,"K,Remote,Testing"
+Linux Programming (General),https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/,Yes,Yes,25,"K,Remote,Testing"
+Load Runner (New),https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/,Yes,No,6,"K,Remote,Testing"
+Management Scenarios,https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/,Yes,No,N/A,"B,Remote,Testing"
+Managerial Scenarios Candidate Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/,Yes,No,N/A,"B,Remote,Testing"
+Managerial Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/,Yes,No,N/A,"B,Remote,Testing"
+Managerial Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/,Yes,No,N/A,"B,Remote,Testing"
+Manual Testing (New),https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/,Yes,No,10,"K,Remote,Testing"
+Manufac. & Indust. - Mechanical & Vigilance 8.0,https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/,Yes,No,49,"A,P,Remote,Testing"

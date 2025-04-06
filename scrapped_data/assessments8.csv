@@ -1,0 +1,13 @@
+name,url,remote_support,adaptive_support,duration,test_type
+Sales Professional Solution,https://www.shl.com/solutions/products/product-catalog/view/sales-professional-solution/,Yes,Yes,47,"A,B,P,Remote,Testing"
+Sales Representative Solution,https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/,Yes,Yes,29,"A,B,P,Remote,Testing"
+Sales Supervisor Solution,https://www.shl.com/solutions/products/product-catalog/view/sales-supervisor-solution/,Yes,Yes,38,"A,B,P,Remote,Testing"
+Sales Support Specialist Solution,https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/,Yes,Yes,43,"A,B,P,Remote,Testing"
+Senior Insurance Agent Solution,https://www.shl.com/solutions/products/product-catalog/view/senior-insurance-agent-solution/,Yes,No,44,"A,B,P,Remote,Testing"
+Senior Sales Professional Solution,https://www.shl.com/solutions/products/product-catalog/view/senior-sales-professional-solution/,Yes,Yes,42,"A,B,P,Remote,Testing"
+Server Solution,https://www.shl.com/solutions/products/product-catalog/view/server-solution/,Yes,Yes,40,"B,A,P,Remote,Testing"
+Service Associate Solution,https://www.shl.com/solutions/products/product-catalog/view/service-associate-solution/,Yes,Yes,38,"A,B,P,Remote,Testing"
+Service Supervisor Solution,https://www.shl.com/solutions/products/product-catalog/view/service-supervisor-solution/,Yes,Yes,48,"A,B,P,Remote,Testing"
+Stock Clerk Solution,https://www.shl.com/solutions/products/product-catalog/view/stock-clerk-solution/,Yes,No,25,"A,B,P,Remote,Testing"
+Store Manager 7.0 Solution,https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-0-solution/,Yes,No,34,"B,C,Remote,Testing"
+Store Manager 7.1 (Americas),https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-1-%28americas%29/,Yes,No,34,"B,C,Remote,Testing"
